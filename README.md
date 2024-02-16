@@ -3,7 +3,7 @@
 
 ## GitHub Stats
 
-<a href="https://github.com/StephenKyaw">
+<a href="https://github.com/Thiha21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiha21&show_icons=true&theme=noctis_minimus&count_private=true" alt="Thiha Aung's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiha21&theme=noctis_minimus&layout=compact" 
     alt="StephenKyaw GitHub Top Languages" />
