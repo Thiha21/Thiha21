@@ -1,4 +1,4 @@
-*I'm a full stack web developer with 6 years professional experience. Currently, I play with senior role and building enterprise applications using ASP.NET Core(Mvc,WebApi), Microservices, MSSQL, MySQL, PostgresSQL, React.*
+*I'm a full stack web developer with 6 years professional experience. Currently, I play with senior role and building enterprise applications using ASP.NET Core(Mvc,WebApi), Microservices, MSSQL, MySQL, PostgresSQL, React, Azure, AWS.*
 *I love a challenge and coding.*
 
 ## GitHub Stats
